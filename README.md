@@ -16,9 +16,9 @@ Lab materials are from [student website](http://csapp.cs.cmu.edu/3e/labs.html)
 
 choose fall 2017 because this semester's videos are available on youtube
 
-- [x] Overview
-  - [x] reading 1
-  - [] video Date: 27/3/23
+- [] Overview
+  - [] reading 1
+  - [x] video Date: 27/3/23
 - [] Bits, Bytes, & Integers I
   - [] reading 2.1
   - [] video
